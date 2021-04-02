@@ -1,2 +1,3 @@
-# cpp_genomics
- cpp programs for working with genomics data
+# regex_worker
+ R program for working with regex and large files
+ 
